@@ -2,6 +2,8 @@
   <div id="app">
     <img src="./assets/logo.png">
     <div>
+      Hello, {{name2}}
+
       <p>
         If Element is successfully added to this project, you'll see an
         <code v-text="'<el-button>'"></code>
@@ -20,6 +22,11 @@ export default {
   name: 'app',
   components: {
     HelloWorld
+  },
+  computed: {
+    name2 () {
+      return x
+    }
   }
 }
 </script>
