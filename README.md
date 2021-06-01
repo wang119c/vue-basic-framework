@@ -1,5 +1,7 @@
 # vue-basic-framework
 
+#### 基础框架
+
 ## Project setup
 ```
 yarn install
@@ -27,3 +29,24 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+**Installed dependencies**
+
+- axios
+- loadsh
+- clipboard
+- element-ui
+- js-cookie
+- driver.js
+- normalize.css
+- nprogress
+- path-to-regexp
+- screenfull
+- vue-splitpane
+- videojs
+- throttle-debounce
+- uuid
+- mockjs
+- fuse.js
+- screenfull
